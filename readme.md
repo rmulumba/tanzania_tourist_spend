@@ -21,4 +21,4 @@ A lightgbm model was used to predict the amount spent by tourists.
 
 ## Execution
 
-Run `main.py` in the `src` directory.
+Run `train.py` in the `src` directory.
